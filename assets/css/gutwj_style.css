@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/*
+Theme Name: CliniCore
+Theme URI: https://clinicore.cmsmasters.net/
+Author: cmsmasters
+Author URI: https://cmsmasters.net/
+Description: CliniCore – Medical Center & Healthcare WordPress Theme is a modern and highly functional solution designed for hospitals, private clinics, cardiology centers, and healthcare professionals. The theme includes custom post types for Doctors, Services, and Departments, allowing you to present your medical team and offerings in a clear and structured way. With seamless WooCommerce integration, you can easily sell medical services, appointments, or healthcare products directly from your website. MedCore is built for performance, flexibility, and user-friendly management, making it an ideal choice for professional medical institutions.
+Version: 1.0.0
+Tested up to: 6.6
+Requires PHP: 7.4
+License:
+License URI:
+Text Domain: clinicore
+Domain Path: /theme-config/languages
+Copyright: cmsmasters 2025 / All Rights Reserved
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+
+.sticky,
+.bypostauthor,
+.screen-reader-text {
+  outline: none;
+}
